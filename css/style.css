@@ -1,0 +1,21 @@
+a{
+
+}
+
+a:hover{
+    color: aqua;
+}
+ a{
+    text-decoration: none;
+
+}
+    
+
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.nav{
+    background-color: rgb(7, 107, 74);
+    padding: 20px;
+    
+}
